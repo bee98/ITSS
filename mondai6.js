@@ -4,7 +4,6 @@
 
 // このファイルを修正して、プルリクエストしてください。
 let arr = [];
-let sum = 0;
 arr = process.argv.slice(2);
 let arrN = arr.map((element)=>Number(element));
 const max = Math.max(...arrN);
