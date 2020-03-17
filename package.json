@@ -1,0 +1,15 @@
+{
+  "name": "itss_std_javascript",
+  "version": "1.0.0",
+  "description": "課題6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "buihoangphu98",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "example": "example"
+  }
+}
